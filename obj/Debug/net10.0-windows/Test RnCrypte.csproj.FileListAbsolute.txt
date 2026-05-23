@@ -1,0 +1,17 @@
+C:\Users\maitr\Documents\rn cryptage\Test RnCrypte\Test RnCrypte\obj\Debug\net10.0-windows\RNPerf.Program.resources
+C:\Users\maitr\Documents\rn cryptage\Test RnCrypte\Test RnCrypte\obj\Debug\net10.0-windows\Test RnCrypte.csproj.GenerateResource.cache
+C:\Users\maitr\Documents\rn cryptage\Test RnCrypte\Test RnCrypte\obj\Debug\net10.0-windows\Test RnCrypte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maitr\Documents\rn cryptage\Test RnCrypte\Test RnCrypte\obj\Debug\net10.0-windows\Test RnCrypte.AssemblyInfoInputs.cache
+C:\Users\maitr\Documents\rn cryptage\Test RnCrypte\Test RnCrypte\obj\Debug\net10.0-windows\Test RnCrypte.AssemblyInfo.cs
+C:\Users\maitr\Documents\rn cryptage\Test RnCrypte\Test RnCrypte\obj\Debug\net10.0-windows\Test RnCrypte.csproj.CoreCompileInputs.cache
+C:\Users\maitr\Documents\rn cryptage\Test RnCrypte\Test RnCrypte\bin\Debug\net10.0-windows\Test RnCrypte.exe
+C:\Users\maitr\Documents\rn cryptage\Test RnCrypte\Test RnCrypte\bin\Debug\net10.0-windows\Test RnCrypte.deps.json
+C:\Users\maitr\Documents\rn cryptage\Test RnCrypte\Test RnCrypte\bin\Debug\net10.0-windows\Test RnCrypte.runtimeconfig.json
+C:\Users\maitr\Documents\rn cryptage\Test RnCrypte\Test RnCrypte\bin\Debug\net10.0-windows\Test RnCrypte.dll
+C:\Users\maitr\Documents\rn cryptage\Test RnCrypte\Test RnCrypte\bin\Debug\net10.0-windows\Test RnCrypte.pdb
+C:\Users\maitr\Documents\rn cryptage\Test RnCrypte\Test RnCrypte\obj\Debug\net10.0-windows\Test RnCrypte.dll
+C:\Users\maitr\Documents\rn cryptage\Test RnCrypte\Test RnCrypte\obj\Debug\net10.0-windows\refint\Test RnCrypte.dll
+C:\Users\maitr\Documents\rn cryptage\Test RnCrypte\Test RnCrypte\obj\Debug\net10.0-windows\Test RnCrypte.pdb
+C:\Users\maitr\Documents\rn cryptage\Test RnCrypte\Test RnCrypte\obj\Debug\net10.0-windows\Test RnCrypte.genruntimeconfig.cache
+C:\Users\maitr\Documents\rn cryptage\Test RnCrypte\Test RnCrypte\obj\Debug\net10.0-windows\ref\Test RnCrypte.dll
+C:\Users\maitr\Documents\rn cryptage\Test RnCrypte\Test RnCrypte\obj\Debug\net10.0-windows\Test RnCrypte.csproj.AssemblyReference.cache
